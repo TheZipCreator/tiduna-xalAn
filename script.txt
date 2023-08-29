@@ -1,0 +1,6 @@
+The script of tiduna,xalAn is sort of an abugida; vowels are put below their consonant. If there is no consonant before a given vowel, it is just put in the consonant's place.
+The horizontal direction (Y in Goxel) specifies a single descriptor.
+The vertical direction (Z in Goxel) is every descriptor in a given word.
+The direction orthogonal to those two (X in Goxel) represents individual words.
+The script has no punctuation; instead you insert a space at the end of a sentence.
+

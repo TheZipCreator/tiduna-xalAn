@@ -6,5 +6,7 @@ Contains source code for the jars in ..
 The source code is licensed with the GNU General Public License Version 3.
 
 You can build these with kotlinc like so:
+
 `kotlinc phoneticize.kt parser.kt -include-runtime -d ../phoneticize.jar`
+
 `kotlinc write.kt parser.kt -include-runtime -d ../write.jar`

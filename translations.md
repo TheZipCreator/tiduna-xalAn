@@ -28,12 +28,12 @@ The bee of course, flies anyway.
 ixA l[u tuLx,wix,ip,yele,tiduqu yax,tineq,qAxA]
 `despite (STMT NOM-yellow-black-alive-small VERB-nonstationary-above)`
 ```
-/ilu u tuɬx jələ    xix ɢut    jaɴad u iqu  xix       xix jax   /
-/      iqu  βɑtiɴəq     tiduqu         tuɬx jaɴadtuqi     ləβ   /
-/           βɑqɑxɑ                          tiduqu        qɑxɑ  /
-/                                                         tiɴəq /
-/    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬɬ/
-/      ɴɴɴɴɴɴɴɴɴɴɴɴɴɴɴɴɴ               lllllllllllllllllll      /
+/ixɑ u tuɬx   jax   /
+/      ɸix    tiɴəq /
+/      ip     qɑxɑ  /
+/      jələ         /
+/      tiduqu       /
+/    lllllllllllllll/
 ```
 
 Because bees don't care what humans think is impossible.

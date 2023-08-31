@@ -2,7 +2,7 @@
 
 According to all known laws of aviation, there is no way a bee should be able to fly.
 ilu x[iqu Lat,xalt,tivulAn,Lex qAxA,valal] j[u tuLx,wix,ip,yele,tiduqu yax,waxAn,tiq,tineq,qAxA]
-`because (GEN dictatorial-recorded-abstract-Lex above-blue) (STMT NOM-yellow-black-alive-small VERB-EPI-NEG-nonstationary-above)`
+`because (GEN dictatorial-recorded-abstract-known above-blue) (STMT NOM-yellow-black-alive-small VERB-EPI-NEG-nonstationary-above)`
 ```
 /ilu iqu ɬat     qɑxɑ  u tuɬx   jax   /
 /        xalt    βalal   ɸix    ɸaxɑɴ /

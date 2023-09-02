@@ -48,47 +48,6 @@ u x[tuLx,iqu Lat,xalt,tivulAn yele,ina] yax,tiq,Lat gut,wix,ip,yele,tiduqu
 /  xxxxxxxxxxxxxxxxxx           /
 ```
 
-# translation-activities 1
-
-We cut without a knife
-iqu,tiq tuni,vAtiyele uqAx,una. u tuLx,uqAx,una yax,tuni,qAy.
-GEN-NEG sharp-[helps to kill] 1SG-multiple. STMT NOM-1SG-multiple VERB-sharp-destructive.
-```
-/iqu tuɴi     uqɑx . u tuɬx jax /
-/tiq βɑtijələ uɴa  .   uqɑx tuɴi/
-/                  .   uɴa  qɑj /
-```
-
-We live in black and white
-u tuLx,uqAx,una xaxA,ip xaXa,nan yax,yele.
-STMT NOM-1SG-multiple LOC-black LOC-white VERB-live.
-```
-/u tuɬx xaxɑ xaXa jax  /
-/  uqɑx ip   ɴaɴ  jələ /
-/  uɴa                 /
-```
-
-You're just a parasite
-u gut,qAy,titiqAy taLx,anu.
-STMT ACC-destructive-[do not create] NOM-2SG
-```
-/u ɢut     taɬx /
-/  qɑj     aɴu  /
-/  titiqɑj      /
-```
-
-Now close your eyes and say goodnight
-u tuLx,anu yax,tineq,tiqAxA,tint,ikini l[iqu utiyisux,yele,yayaq anu]. u yax,tiyele tuLx,anu.
-STMT NOM-2SG VERB-nonstationary-down/below-DEO-FUT (GEN [receives light]-alive-part 1SG). STMT VERB-dead NOM-2SG
-```
-/u tuɬx jax    iqu utijisux aɴu . u jax    tuɬx /
-/  aɴu  tiɴəq      jələ         .   tijələ aɴu  /
-/       tiqɑxɑ     jajaq        .               /
-/       tiɴt                    .               /
-/       ikiɴi                   .               /
-/              lllllllllllllllll.               /
-```
-
 # The North Wind and the Sun
 
 The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
@@ -148,4 +107,55 @@ because (STMT VERB-[makes sound]-necessary NOM-north-gaseous-nonstationary (ACC-
 /            tiɴəq     utiji         /
 /    llllllllllllllllllllllllllllllll/
 /                  jjjjjjjjjjjjjjjjjj/
+```
+
+# translation-activities 1
+
+We cut without a knife
+iqu,tiq tuni,vAtiyele uqAx,una. u tuLx,uqAx,una yax,tuni,qAy.
+GEN-NEG sharp-[helps to kill] 1SG-multiple. STMT NOM-1SG-multiple VERB-sharp-destructive.
+```
+/iqu tuɴi     uqɑx . u tuɬx jax /
+/tiq βɑtijələ uɴa  .   uqɑx tuɴi/
+/                  .   uɴa  qɑj /
+```
+
+We live in black and white
+u tuLx,uqAx,una xaxA,ip xaXa,nan yax,yele.
+STMT NOM-1SG-multiple LOC-black LOC-white VERB-live.
+```
+/u tuɬx xaxɑ xaXa jax  /
+/  uqɑx ip   ɴaɴ  jələ /
+/  uɴa                 /
+```
+
+You're just a parasite
+u gut,qAy,titiqAy taLx,anu.
+STMT ACC-destructive-[do not create] NOM-2SG
+```
+/u ɢut     taɬx /
+/  qɑj     aɴu  /
+/  titiqɑj      /
+```
+
+Now close your eyes and say goodnight
+u tuLx,anu yax,tineq,tiqAxA,tint,ikini l[iqu utiyisux,yele,yayaq anu]. u yax,tiyele tuLx,anu.
+STMT NOM-2SG VERB-nonstationary-down/below-DEO-FUT (GEN [receives light]-alive-part 1SG). STMT VERB-dead NOM-2SG
+```
+/u tuɬx jax    iqu utijisux aɴu . u jax    tuɬx /
+/  aɴu  tiɴəq      jələ         .   tijələ aɴu  /
+/       tiqɑxɑ     jajaq        .               /
+/       tiɴt                    .               /
+/       ikiɴi                   .               /
+/              lllllllllllllllll.               /
+```
+
+# translation-activities 2
+What are you going to do? Stab me?
+u tuLx,anu yax,tiLex. un gut,uqAx yax,qAy in,qAy,tuni tuLx,anu.
+`STMT NOM-2SG VERB-unknown. Q ACC-1SG VERB-destructive INS-destructive-sharp NOM-2SG.`
+```
+/u tuɬx jax   . uɴ ɢut  jax iɴ   tuɬx /
+/  aɴu  tiɬəx .    uqɑx qɑj qɑj  aɴu  /
+/             .             tuɴi      /
 ```
